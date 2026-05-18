@@ -71,3 +71,6 @@ All entries sorted by date, newest first.
 
 
 <!-- reorganized section -->
+
+
+<!-- added recent entries to index -->

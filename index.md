@@ -110,3 +110,6 @@ All entries sorted by date, newest first.
 
 
 <!-- added recent entries to index -->
+
+
+<!-- reorganized section -->
